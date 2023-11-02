@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📝 I regularly write articles on [.Net Core](.Net Core)
+- 📝 I regularly write articles on [.Net Core]
 
 - 💬 Ask me about **.Net Core, C#, SQL, EF Core, LINQ**
 
 - 📫 How to reach me **eslamabdelamwgoud11@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/eslam/Downloads/CV.pdf](file:///C:/Users/eslam/Downloads/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
